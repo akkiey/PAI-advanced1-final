@@ -1,0 +1,9 @@
+Starting >>> key_event_msgs
+[Processing: key_event_msgs]
+Finished <<< key_event_msgs [48.3s]
+Starting >>> key_event_nodes
+Finished <<< key_event_nodes [20.1s]
+Starting >>> nav_dev
+Finished <<< nav_dev [27.5s]
+
+Summary: 3 packages finished [1min 37s]

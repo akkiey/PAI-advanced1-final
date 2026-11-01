@@ -1,0 +1,90 @@
+[
+  {
+    "instruction": "近くを巡回してください",
+    "expected": "patrol",
+    "in_training": true,
+    "label": "patrol",
+    "score": 0.749808,
+    "action": "patrol"
+  },
+  {
+    "instruction": "停止してください",
+    "expected": "stop",
+    "in_training": true,
+    "label": "stop",
+    "score": 0.757608,
+    "action": "stop"
+  },
+  {
+    "instruction": "近くを巡回して",
+    "expected": "patrol",
+    "in_training": false,
+    "label": "patrol",
+    "score": 0.829875,
+    "action": "patrol"
+  },
+  {
+    "instruction": "周囲の巡回をお願いします",
+    "expected": "patrol",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.504866,
+    "action": "uncertain"
+  },
+  {
+    "instruction": "パトロールしてください",
+    "expected": "patrol",
+    "in_training": false,
+    "label": "patrol",
+    "score": 0.695294,
+    "action": "patrol"
+  },
+  {
+    "instruction": "今すぐ止まってください",
+    "expected": "stop",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.78505,
+    "action": "stop"
+  },
+  {
+    "instruction": "動かず待機して",
+    "expected": "stop",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.668023,
+    "action": "stop"
+  },
+  {
+    "instruction": "巡回しないでください",
+    "expected": "stop",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.599041,
+    "action": "uncertain"
+  },
+  {
+    "instruction": "巡回を開始しないで",
+    "expected": "stop",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.691289,
+    "action": "stop"
+  },
+  {
+    "instruction": "今日はいい天気ですね",
+    "expected": "unknown",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.668112,
+    "action": "stop"
+  },
+  {
+    "instruction": "こんにちは",
+    "expected": "unknown",
+    "in_training": false,
+    "label": "stop",
+    "score": 0.542932,
+    "action": "uncertain"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "patrol": {
+    "samples": 1750,
+    "wall_duration": 62.7679112779997,
+    "sim_duration": 34.98000000000002,
+    "start": [
+      -0.10248594976164514,
+      -0.6905861530750318
+    ],
+    "end": [
+      -0.11050278283440777,
+      -0.6710230494662924
+    ],
+    "displacement_m": 0.021142011146596525,
+    "path_length_m": 2.3865000000219667,
+    "yaw_error_deg": -0.41168777612507795,
+    "max_speed": 0.15000000000435776,
+    "final_speed": 0.0,
+    "final_angular_speed": 0.0,
+    "motion_wall_start": 7.214602962000754,
+    "motion_wall_end": 57.7196075260008,
+    "motion_sim_duration": 28.460000000000036,
+    "post_stop_sim_seconds": 3.9400000000000546,
+    "post_stop_displacement_m": 8.516784809659452e-14
+  },
+  "stop": {
+    "samples": 401,
+    "wall_duration": 11.916349504999744,
+    "sim_duration": 8.0,
+    "start": [
+      -0.11050278283440777,
+      -0.6710230494662924
+    ],
+    "end": [
+      -0.11050278283440777,
+      -0.6710230494662924
+    ],
+    "displacement_m": 0.0,
+    "path_length_m": 0.0,
+    "yaw_error_deg": 0.0,
+    "max_speed": 0.0,
+    "final_speed": 0.0,
+    "final_angular_speed": 0.0
+  }
+}

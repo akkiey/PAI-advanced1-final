@@ -1,0 +1,10 @@
+{
+  "duration_seconds": 103.534,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "fps": 15,
+  "decode_errors": 0,
+  "speed": "1x wall time",
+  "audio": false
+}
